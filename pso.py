@@ -68,7 +68,7 @@ class PSO:
             self.gbest = min(self.particles, key=lambda p: p.pbest_cost)
             if t % 20 == 0:
                 plt.figure(0)
-                plt.plot(pso.gcost_iter, 'g')
+                plt.plot(self.gcost_iter, 'g')
                 plt.ylabel('Distance')
                 plt.xlabel('Generation')
                 fig = plt.figure(0)
@@ -77,8 +77,8 @@ class PSO:
                 for city in self.gbest.pbest:
                     x_list.append(city.x)
                     y_list.append(city.y)
-                x_list.append(pso.gbest.pbest[0].x)
-                y_list.append(pso.gbest.pbest[0].y)
+                x_list.append(self.gbest.pbest[0].x)
+                y_list.append(self.gbest.pbest[0].y)
                 fig = plt.figure(1)
                 fig.clear()
                 fig.suptitle(f'pso TSP iter {t}')

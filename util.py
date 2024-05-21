@@ -47,7 +47,7 @@ def leer_coordenadas(archivo):
     coordenadas = []
     with open(archivo, 'r') as f:
         for linea in f:
-            x, y = map(float, linea.strip().split(','))
+            x, y = map(int, linea.strip().split(','))
             coordenadas.append(City(x, y))
     return coordenadas
 
