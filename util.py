@@ -37,6 +37,21 @@ def generate_cities(size):
     return [City(x=int(random.random() * 1000), y=int(random.random() * 1000)) for _ in range(size)]
 
 
+def guardar_coordenadas(archivo, ciudades):
+    with open(archivo, 'w') as f:
+        for ciudad in ciudades:
+            f.write(f"{ciudad.x},{ciudad.y}\n")
+
+
+def leer_coordenadas(archivo):
+    coordenadas = []
+    with open(archivo, 'r') as f:
+        for linea in f:
+            x, y = map(float, linea.strip().split(','))
+            coordenadas.append(City(x, y))
+    return coordenadas
+
+
 def path_cost(route):
     return sum([city.distance(route[index - 1]) for index, city in enumerate(route)])
 
