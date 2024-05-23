@@ -61,32 +61,25 @@ class PSO:
 
     def run(self):
         self.gbest = min(self.particles, key=lambda p: p.pbest_cost)
-        print(f"initial cost is {self.gbest.pbest_cost}")
+        print(f"Initial cost is {self.gbest.pbest_cost}")
         plt.ion()
         plt.draw()
         for t in range(self.iterations):
             self.gbest = min(self.particles, key=lambda p: p.pbest_cost)
-            if t % 20 == 0:
+            if t == self.iterations-1:
                 plt.figure(0)
                 plt.plot(self.gcost_iter, 'g')
                 plt.ylabel('Distance')
-                plt.xlabel('Generation')
+                plt.xlabel('Iteration')
                 fig = plt.figure(0)
-                fig.suptitle('pso iter')
+                fig.suptitle('Distance vs iteration')
                 x_list, y_list = [], []
                 for city in self.gbest.pbest:
                     x_list.append(city.x)
                     y_list.append(city.y)
                 x_list.append(self.gbest.pbest[0].x)
                 y_list.append(self.gbest.pbest[0].y)
-                fig = plt.figure(1)
-                fig.clear()
-                fig.suptitle(f'pso TSP iter {t}')
-
-                plt.plot(x_list, y_list, 'ro')
-                plt.plot(x_list, y_list, 'g')
                 plt.draw()
-                plt.pause(.001)
             self.gcost_iter.append(self.gbest.pbest_cost)
 
             for particle in self.particles:
