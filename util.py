@@ -25,21 +25,21 @@ def generate_cities(size) -> list[City]:
     return [City(x=generate_coord(1000), y=generate_coord(1000)) for _ in range(size)]
 
 
-def save_map(filename, map):
+def save_map(filename, map_data):
     # Save the coordinates of the cities in a file
     with open(filename, 'w') as f:
-        for city in map:
-            f.write(f"{city.x},{city.y}\n")
+        for city in map_data:
+            f.write(f"{city.x} {city.y}\n")
 
 
 def load_map(filename):
     # Load the coordinates of the cities from a file
-    map = []
+    map_data = []
     with open(filename, 'r') as f:
         for coord in f:
-            x, y = map(int, coord.strip().split(','))
-            map.append(City(x, y))
-    return map
+            x, y = map(int, coord.split())
+            map_data.append(City(x, y))
+    return map_data
 
 
 def path_cost(route):
