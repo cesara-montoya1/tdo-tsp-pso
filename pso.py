@@ -25,8 +25,8 @@ class Particle:
 
 
 class PSO:
-
-    def __init__(self, iterations, population_size, gbest_probability=1.0, pbest_probability=1.0, cities=None):
+    def __init__(self, iterations, population_size,
+                 gbest_probability=1.0, pbest_probability=1.0, cities=None):
         self.cities = cities
         self.gbest = None
         self.gcost_iter = []
