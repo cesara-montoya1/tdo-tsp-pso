@@ -1,6 +1,6 @@
 import random
 import matplotlib.pyplot as plt
-from util import read_cities, path_cost
+from util import path_cost
 
 
 class Particle:
