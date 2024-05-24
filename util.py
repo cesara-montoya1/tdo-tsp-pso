@@ -15,48 +15,40 @@ class City:
         return f"({self.x}, {self.y})"
 
 
-def read_cities(size):
-    cities = []
-    with open(f'test_data/cities_{size}.data', 'r') as handle:
-        lines = handle.readlines()
-        for line in lines:
-            x, y = map(float, line.split())
-            cities.append(City(x, y))
-    return cities
+def generate_coord(distance) -> int:
+    # Generates a random number between 0 and distance
+    return int(random.random() * distance)
 
 
-def write_cities_and_return_them(size):
-    cities = generate_cities(size)
-    with open(f'test_data/cities_{size}.data', 'w+') as handle:
-        for city in cities:
-            handle.write(f'{city.x} {city.y}\n')
-    return cities
+def generate_cities(size) -> list[City]:
+    # Create a list of City objects with random coordinates (x, y)
+    return [City(x=generate_coord(1000), y=generate_coord(1000)) for _ in range(size)]
 
 
-def generate_cities(size):
-    return [City(x=int(random.random() * 1000), y=int(random.random() * 1000)) for _ in range(size)]
+def save_map(filename, map):
+    # Save the coordinates of the cities in a file
+    with open(filename, 'w') as f:
+        for city in map:
+            f.write(f"{city.x},{city.y}\n")
 
 
-def guardar_coordenadas(archivo, ciudades):
-    with open(archivo, 'w') as f:
-        for ciudad in ciudades:
-            f.write(f"{ciudad.x},{ciudad.y}\n")
-
-
-def leer_coordenadas(archivo):
-    coordenadas = []
-    with open(archivo, 'r') as f:
-        for linea in f:
-            x, y = map(int, linea.strip().split(','))
-            coordenadas.append(City(x, y))
-    return coordenadas
+def load_map(filename):
+    # Load the coordinates of the cities from a file
+    map = []
+    with open(filename, 'r') as f:
+        for coord in f:
+            x, y = map(int, coord.strip().split(','))
+            map.append(City(x, y))
+    return map
 
 
 def path_cost(route):
+    # Calculate the total distance of a route
     return sum([city.distance(route[index - 1]) for index, city in enumerate(route)])
 
 
 def visualize_tsp(title, cities):
+    # Plot the route with each city as a dot
     fig = plt.figure()
     fig.suptitle(title)
     x_list, y_list = [], []
