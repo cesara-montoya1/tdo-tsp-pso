@@ -1,0 +1,518 @@
+PSO with pop: 500, pbest: 0.5, gbest: 0.9, cities: 5
+Optimized cost is 2627.871649701817
+PSO with pop: 500, pbest: 0.5, gbest: 0.9, cities: 10
+Optimized cost is 3119.8540188024845
+PSO with pop: 500, pbest: 0.5, gbest: 0.9, cities: 20
+Optimized cost is 4496.611355581715
+PSO with pop: 500, pbest: 0.5, gbest: 0.9, cities: 30
+Optimized cost is 5205.600998994801
+PSO with pop: 500, pbest: 0.5, gbest: 0.9, cities: 40
+Optimized cost is 5863.31904508835
+PSO with pop: 500, pbest: 0.5, gbest: 0.9, cities: 50
+Optimized cost is 7597.590365863982
+PSO with pop: 500, pbest: 0.5, gbest: 0.9, cities: 60
+Optimized cost is 7290.244710639496
+PSO with pop: 500, pbest: 0.9, gbest: 0.02, cities: 5
+Optimized cost is 2627.871649701817
+PSO with pop: 500, pbest: 0.9, gbest: 0.02, cities: 10
+Optimized cost is 3119.8540188024836
+PSO with pop: 500, pbest: 0.9, gbest: 0.02, cities: 20
+Optimized cost is 4372.838529416396
+PSO with pop: 500, pbest: 0.9, gbest: 0.02, cities: 30
+Optimized cost is 4980.795433156669
+PSO with pop: 500, pbest: 0.9, gbest: 0.02, cities: 40
+Optimized cost is 5863.31904508835
+PSO with pop: 500, pbest: 0.9, gbest: 0.02, cities: 50
+Optimized cost is 7668.012554426008
+PSO with pop: 500, pbest: 0.9, gbest: 0.02, cities: 60
+Optimized cost is 7328.512634650608
+PSO with pop: 500, pbest: 0.9, gbest: 0.3, cities: 5
+Optimized cost is 2627.871649701817
+PSO with pop: 500, pbest: 0.9, gbest: 0.3, cities: 10
+Optimized cost is 3119.8540188024836
+PSO with pop: 500, pbest: 0.9, gbest: 0.3, cities: 20
+Optimized cost is 4280.372050245568
+PSO with pop: 500, pbest: 0.9, gbest: 0.3, cities: 30
+Optimized cost is 5358.935916348104
+PSO with pop: 500, pbest: 0.9, gbest: 0.3, cities: 40
+Optimized cost is 5804.205666877595
+PSO with pop: 500, pbest: 0.9, gbest: 0.3, cities: 50
+Optimized cost is 7398.378690969949
+PSO with pop: 500, pbest: 0.9, gbest: 0.3, cities: 60
+Optimized cost is 7407.69816168893
+PSO with pop: 500, pbest: 0.9, gbest: 0.5, cities: 5
+Optimized cost is 2627.871649701817
+PSO with pop: 500, pbest: 0.9, gbest: 0.5, cities: 10
+Optimized cost is 3119.8540188024836
+PSO with pop: 500, pbest: 0.9, gbest: 0.5, cities: 20
+Optimized cost is 4496.611355581715
+PSO with pop: 500, pbest: 0.9, gbest: 0.5, cities: 30
+Optimized cost is 5055.849354592771
+PSO with pop: 500, pbest: 0.9, gbest: 0.5, cities: 40
+Optimized cost is 6207.367028467003
+PSO with pop: 500, pbest: 0.9, gbest: 0.5, cities: 50
+Optimized cost is 7735.0823604778825
+PSO with pop: 500, pbest: 0.9, gbest: 0.5, cities: 60
+Optimized cost is 7371.0035571755125
+PSO with pop: 500, pbest: 0.9, gbest: 0.9, cities: 5
+Optimized cost is 2627.871649701817
+PSO with pop: 500, pbest: 0.9, gbest: 0.9, cities: 10
+Optimized cost is 3119.8540188024836
+PSO with pop: 500, pbest: 0.9, gbest: 0.9, cities: 20
+Optimized cost is 4528.119288707989
+PSO with pop: 500, pbest: 0.9, gbest: 0.9, cities: 30
+Optimized cost is 5110.714365401116
+PSO with pop: 500, pbest: 0.9, gbest: 0.9, cities: 40
+Optimized cost is 5863.31904508835
+PSO with pop: 500, pbest: 0.9, gbest: 0.9, cities: 50
+Optimized cost is 7677.378770135579
+PSO with pop: 500, pbest: 0.9, gbest: 0.9, cities: 60
+Optimized cost is 7373.063254914281
+PSO with pop: 2000, pbest: 0.02, gbest: 0.02, cities: 5
+Optimized cost is 2627.871649701817
+PSO with pop: 2000, pbest: 0.02, gbest: 0.02, cities: 10
+Optimized cost is 3119.8540188024836
+PSO with pop: 2000, pbest: 0.02, gbest: 0.02, cities: 20
+Optimized cost is 4182.767640792655
+PSO with pop: 2000, pbest: 0.02, gbest: 0.02, cities: 30
+Optimized cost is 4898.817486887251
+PSO with pop: 2000, pbest: 0.02, gbest: 0.02, cities: 40
+Optimized cost is 5538.388665886331
+PSO with pop: 2000, pbest: 0.02, gbest: 0.02, cities: 50
+Optimized cost is 7164.76128709583
+PSO with pop: 2000, pbest: 0.02, gbest: 0.02, cities: 60
+Optimized cost is 7297.294205714748
+PSO with pop: 2000, pbest: 0.02, gbest: 0.3, cities: 5
+Optimized cost is 2627.871649701817
+PSO with pop: 2000, pbest: 0.02, gbest: 0.3, cities: 10
+Optimized cost is 3119.8540188024836
+PSO with pop: 2000, pbest: 0.02, gbest: 0.3, cities: 20
+Optimized cost is 4182.767640792655
+PSO with pop: 2000, pbest: 0.02, gbest: 0.3, cities: 30
+Optimized cost is 4754.7062013954355
+PSO with pop: 2000, pbest: 0.02, gbest: 0.3, cities: 40
+Optimized cost is 5804.205666877595
+PSO with pop: 2000, pbest: 0.02, gbest: 0.3, cities: 50
+Optimized cost is 7247.737832017134
+PSO with pop: 2000, pbest: 0.02, gbest: 0.3, cities: 60
+Optimized cost is 7290.162365351667
+PSO with pop: 2000, pbest: 0.02, gbest: 0.5, cities: 5
+Optimized cost is 2627.871649701817
+PSO with pop: 2000, pbest: 0.02, gbest: 0.5, cities: 10
+Optimized cost is 3119.8540188024836
+PSO with pop: 2000, pbest: 0.02, gbest: 0.5, cities: 20
+Optimized cost is 4182.767640792655
+PSO with pop: 2000, pbest: 0.02, gbest: 0.5, cities: 30
+Optimized cost is 5174.6542368280725
+PSO with pop: 2000, pbest: 0.02, gbest: 0.5, cities: 40
+Optimized cost is 5804.205666877595
+PSO with pop: 2000, pbest: 0.02, gbest: 0.5, cities: 50
+Optimized cost is 7500.153076187162
+PSO with pop: 2000, pbest: 0.02, gbest: 0.5, cities: 60
+Optimized cost is 7339.996427233271
+PSO with pop: 2000, pbest: 0.02, gbest: 0.9, cities: 5
+Optimized cost is 2627.871649701817
+PSO with pop: 2000, pbest: 0.02, gbest: 0.9, cities: 10
+Optimized cost is 3119.8540188024836
+PSO with pop: 2000, pbest: 0.02, gbest: 0.9, cities: 20
+Optimized cost is 4182.767640792655
+PSO with pop: 2000, pbest: 0.02, gbest: 0.9, cities: 30
+Optimized cost is 5174.6542368280725
+PSO with pop: 2000, pbest: 0.02, gbest: 0.9, cities: 40
+Optimized cost is 5804.205666877595
+PSO with pop: 2000, pbest: 0.02, gbest: 0.9, cities: 50
+Optimized cost is 7059.409368407966
+PSO with pop: 2000, pbest: 0.02, gbest: 0.9, cities: 60
+Optimized cost is 7328.512634650608
+PSO with pop: 2000, pbest: 0.3, gbest: 0.02, cities: 5
+Optimized cost is 2627.871649701817
+PSO with pop: 2000, pbest: 0.3, gbest: 0.02, cities: 10
+Optimized cost is 3119.8540188024836
+PSO with pop: 2000, pbest: 0.3, gbest: 0.02, cities: 20
+Optimized cost is 4421.223390829812
+PSO with pop: 2000, pbest: 0.3, gbest: 0.02, cities: 30
+Optimized cost is 4792.5685124708325
+PSO with pop: 2000, pbest: 0.3, gbest: 0.02, cities: 40
+Optimized cost is 5637.127394838059
+PSO with pop: 2000, pbest: 0.3, gbest: 0.02, cities: 50
+Optimized cost is 7298.138154203805
+PSO with pop: 2000, pbest: 0.3, gbest: 0.02, cities: 60
+Optimized cost is 7261.909106841991
+PSO with pop: 2000, pbest: 0.3, gbest: 0.3, cities: 5
+Optimized cost is 2627.871649701817
+PSO with pop: 2000, pbest: 0.3, gbest: 0.3, cities: 10
+Optimized cost is 3119.8540188024836
+PSO with pop: 2000, pbest: 0.3, gbest: 0.3, cities: 20
+Optimized cost is 4182.767640792655
+PSO with pop: 2000, pbest: 0.3, gbest: 0.3, cities: 30
+Optimized cost is 5174.6542368280725
+PSO with pop: 2000, pbest: 0.3, gbest: 0.3, cities: 40
+Optimized cost is 5804.205666877595
+PSO with pop: 2000, pbest: 0.3, gbest: 0.3, cities: 50
+Optimized cost is 7178.263700288901
+PSO with pop: 2000, pbest: 0.3, gbest: 0.3, cities: 60
+Optimized cost is 7262.349983795075
+PSO with pop: 2000, pbest: 0.3, gbest: 0.5, cities: 5
+Optimized cost is 2627.871649701817
+PSO with pop: 2000, pbest: 0.3, gbest: 0.5, cities: 10
+Optimized cost is 3119.8540188024836
+PSO with pop: 2000, pbest: 0.3, gbest: 0.5, cities: 20
+Optimized cost is 4182.767640792655
+PSO with pop: 2000, pbest: 0.3, gbest: 0.5, cities: 30
+Optimized cost is 4856.747705769429
+PSO with pop: 2000, pbest: 0.3, gbest: 0.5, cities: 40
+Optimized cost is 6158.9385446628685
+PSO with pop: 2000, pbest: 0.3, gbest: 0.5, cities: 50
+Optimized cost is 7433.724781823823
+PSO with pop: 2000, pbest: 0.3, gbest: 0.5, cities: 60
+Optimized cost is 7351.295116678239
+PSO with pop: 2000, pbest: 0.3, gbest: 0.9, cities: 5
+Optimized cost is 2627.871649701817
+PSO with pop: 2000, pbest: 0.3, gbest: 0.9, cities: 10
+Optimized cost is 3119.854018802484
+PSO with pop: 2000, pbest: 0.3, gbest: 0.9, cities: 20
+Optimized cost is 4496.611355581715
+PSO with pop: 2000, pbest: 0.3, gbest: 0.9, cities: 30
+Optimized cost is 5174.6542368280725
+PSO with pop: 2000, pbest: 0.3, gbest: 0.9, cities: 40
+Optimized cost is 5804.205666877595
+PSO with pop: 2000, pbest: 0.3, gbest: 0.9, cities: 50
+Optimized cost is 6704.537234763369
+PSO with pop: 2000, pbest: 0.3, gbest: 0.9, cities: 60
+Optimized cost is 7357.676764943211
+PSO with pop: 2000, pbest: 0.5, gbest: 0.02, cities: 5
+Optimized cost is 2627.871649701817
+PSO with pop: 2000, pbest: 0.5, gbest: 0.02, cities: 10
+Optimized cost is 3119.854018802484
+PSO with pop: 2000, pbest: 0.5, gbest: 0.02, cities: 20
+Optimized cost is 4182.767640792655
+PSO with pop: 2000, pbest: 0.5, gbest: 0.02, cities: 30
+Optimized cost is 4945.98790159389
+PSO with pop: 2000, pbest: 0.5, gbest: 0.02, cities: 40
+Optimized cost is 5734.110919489426
+PSO with pop: 2000, pbest: 0.5, gbest: 0.02, cities: 50
+Optimized cost is 6973.059781707545
+PSO with pop: 2000, pbest: 0.5, gbest: 0.02, cities: 60
+Optimized cost is 7262.267638507246
+PSO with pop: 2000, pbest: 0.5, gbest: 0.3, cities: 5
+Optimized cost is 2627.871649701817
+PSO with pop: 2000, pbest: 0.5, gbest: 0.3, cities: 10
+Optimized cost is 3119.8540188024836
+PSO with pop: 2000, pbest: 0.5, gbest: 0.3, cities: 20
+Optimized cost is 4421.223390829812
+PSO with pop: 2000, pbest: 0.5, gbest: 0.3, cities: 30
+Optimized cost is 5174.6542368280725
+PSO with pop: 2000, pbest: 0.5, gbest: 0.3, cities: 40
+Optimized cost is 5804.205666877595
+PSO with pop: 2000, pbest: 0.5, gbest: 0.3, cities: 50
+Optimized cost is 7381.582734377101
+PSO with pop: 2000, pbest: 0.5, gbest: 0.3, cities: 60
+Optimized cost is 7356.407361495028
+PSO with pop: 2000, pbest: 0.5, gbest: 0.5, cities: 5
+Optimized cost is 2627.871649701817
+PSO with pop: 2000, pbest: 0.5, gbest: 0.5, cities: 10
+Optimized cost is 3119.854018802484
+PSO with pop: 2000, pbest: 0.5, gbest: 0.5, cities: 20
+Optimized cost is 4182.767640792655
+PSO with pop: 2000, pbest: 0.5, gbest: 0.5, cities: 30
+Optimized cost is 5174.6542368280725
+PSO with pop: 2000, pbest: 0.5, gbest: 0.5, cities: 40
+Optimized cost is 6129.759228155573
+PSO with pop: 2000, pbest: 0.5, gbest: 0.5, cities: 50
+Optimized cost is 7426.865741212198
+PSO with pop: 2000, pbest: 0.5, gbest: 0.5, cities: 60
+Optimized cost is 7369.375622062074
+PSO with pop: 2000, pbest: 0.5, gbest: 0.9, cities: 5
+Optimized cost is 2627.871649701817
+PSO with pop: 2000, pbest: 0.5, gbest: 0.9, cities: 10
+Optimized cost is 3119.854018802484
+PSO with pop: 2000, pbest: 0.5, gbest: 0.9, cities: 20
+Optimized cost is 4496.611355581715
+PSO with pop: 2000, pbest: 0.5, gbest: 0.9, cities: 30
+Optimized cost is 5174.6542368280725
+PSO with pop: 2000, pbest: 0.5, gbest: 0.9, cities: 40
+Optimized cost is 6099.825166452115
+PSO with pop: 2000, pbest: 0.5, gbest: 0.9, cities: 50
+Optimized cost is 6861.4012245883805
+PSO with pop: 2000, pbest: 0.5, gbest: 0.9, cities: 60
+Optimized cost is 7350.936585012983
+PSO with pop: 2000, pbest: 0.9, gbest: 0.02, cities: 5
+Optimized cost is 2627.871649701817
+PSO with pop: 2000, pbest: 0.9, gbest: 0.02, cities: 10
+Optimized cost is 3119.8540188024836
+PSO with pop: 2000, pbest: 0.9, gbest: 0.02, cities: 20
+Optimized cost is 4182.767640792655
+PSO with pop: 2000, pbest: 0.9, gbest: 0.02, cities: 30
+Optimized cost is 4898.712177663134
+PSO with pop: 2000, pbest: 0.9, gbest: 0.02, cities: 40
+Optimized cost is 5745.320479458917
+PSO with pop: 2000, pbest: 0.9, gbest: 0.02, cities: 50
+Optimized cost is 7393.370138372588
+PSO with pop: 2000, pbest: 0.9, gbest: 0.02, cities: 60
+Optimized cost is 7323.041858168563
+PSO with pop: 2000, pbest: 0.9, gbest: 0.3, cities: 5
+Optimized cost is 2627.871649701817
+PSO with pop: 2000, pbest: 0.9, gbest: 0.3, cities: 10
+Optimized cost is 3119.8540188024836
+PSO with pop: 2000, pbest: 0.9, gbest: 0.3, cities: 20
+Optimized cost is 4182.767640792655
+PSO with pop: 2000, pbest: 0.9, gbest: 0.3, cities: 30
+Optimized cost is 5174.6542368280725
+PSO with pop: 2000, pbest: 0.9, gbest: 0.3, cities: 40
+Optimized cost is 5863.31904508835
+PSO with pop: 2000, pbest: 0.9, gbest: 0.3, cities: 50
+Optimized cost is 7373.813051832861
+PSO with pop: 2000, pbest: 0.9, gbest: 0.3, cities: 60
+Optimized cost is 7358.0352966084665
+PSO with pop: 2000, pbest: 0.9, gbest: 0.5, cities: 5
+Optimized cost is 2627.871649701817
+PSO with pop: 2000, pbest: 0.9, gbest: 0.5, cities: 10
+Optimized cost is 3119.854018802484
+PSO with pop: 2000, pbest: 0.9, gbest: 0.5, cities: 20
+Optimized cost is 4182.767640792655
+PSO with pop: 2000, pbest: 0.9, gbest: 0.5, cities: 30
+Optimized cost is 5174.6542368280725
+PSO with pop: 2000, pbest: 0.9, gbest: 0.5, cities: 40
+Optimized cost is 5804.205666877595
+PSO with pop: 2000, pbest: 0.9, gbest: 0.5, cities: 50
+Optimized cost is 7438.208415132264
+PSO with pop: 2000, pbest: 0.9, gbest: 0.5, cities: 60
+Optimized cost is 7356.775583148097
+PSO with pop: 2000, pbest: 0.9, gbest: 0.9, cities: 5
+Optimized cost is 2627.871649701817
+PSO with pop: 2000, pbest: 0.9, gbest: 0.9, cities: 10
+Optimized cost is 3119.8540188024836
+PSO with pop: 2000, pbest: 0.9, gbest: 0.9, cities: 20
+Optimized cost is 4496.611355581715
+PSO with pop: 2000, pbest: 0.9, gbest: 0.9, cities: 30
+Optimized cost is 4688.883374470614
+PSO with pop: 2000, pbest: 0.9, gbest: 0.9, cities: 40
+Optimized cost is 5804.205666877595
+PSO with pop: 2000, pbest: 0.9, gbest: 0.9, cities: 50
+Optimized cost is 6869.775334832581
+PSO with pop: 2000, pbest: 0.9, gbest: 0.9, cities: 60
+Optimized cost is 7267.830450264932
+PSO with pop: 6000, pbest: 0.02, gbest: 0.02, cities: 5
+Optimized cost is 2627.871649701817
+PSO with pop: 6000, pbest: 0.02, gbest: 0.02, cities: 10
+Optimized cost is 3119.8540188024836
+PSO with pop: 6000, pbest: 0.02, gbest: 0.02, cities: 20
+Optimized cost is 4182.767640792655
+PSO with pop: 6000, pbest: 0.02, gbest: 0.02, cities: 30
+Optimized cost is 4468.955884547466
+PSO with pop: 6000, pbest: 0.02, gbest: 0.02, cities: 40
+Optimized cost is 5538.388665886331
+PSO with pop: 6000, pbest: 0.02, gbest: 0.02, cities: 50
+Optimized cost is 7166.562147996519
+PSO with pop: 6000, pbest: 0.02, gbest: 0.02, cities: 60
+Optimized cost is 7259.026281703636
+PSO with pop: 6000, pbest: 0.02, gbest: 0.3, cities: 5
+Optimized cost is 2627.871649701817
+PSO with pop: 6000, pbest: 0.02, gbest: 0.3, cities: 10
+Optimized cost is 3119.8540188024836
+PSO with pop: 6000, pbest: 0.02, gbest: 0.3, cities: 20
+Optimized cost is 4173.97811459806
+PSO with pop: 6000, pbest: 0.02, gbest: 0.3, cities: 30
+Optimized cost is 4856.747705769429
+PSO with pop: 6000, pbest: 0.02, gbest: 0.3, cities: 40
+Optimized cost is 5804.205666877595
+PSO with pop: 6000, pbest: 0.02, gbest: 0.3, cities: 50
+Optimized cost is 7358.244272015039
+PSO with pop: 6000, pbest: 0.02, gbest: 0.3, cities: 60
+Optimized cost is 7290.162365351667
+PSO with pop: 6000, pbest: 0.02, gbest: 0.5, cities: 5
+Optimized cost is 2627.871649701817
+PSO with pop: 6000, pbest: 0.02, gbest: 0.5, cities: 10
+Optimized cost is 3119.854018802484
+PSO with pop: 6000, pbest: 0.02, gbest: 0.5, cities: 20
+Optimized cost is 4182.767640792655
+PSO with pop: 6000, pbest: 0.02, gbest: 0.5, cities: 30
+Optimized cost is 5109.191800518777
+PSO with pop: 6000, pbest: 0.02, gbest: 0.5, cities: 40
+Optimized cost is 5863.31904508835
+PSO with pop: 6000, pbest: 0.02, gbest: 0.5, cities: 50
+Optimized cost is 7251.625013338374
+PSO with pop: 6000, pbest: 0.02, gbest: 0.5, cities: 60
+Optimized cost is 7266.513225850835
+PSO with pop: 6000, pbest: 0.02, gbest: 0.9, cities: 5
+Optimized cost is 2627.871649701817
+PSO with pop: 6000, pbest: 0.02, gbest: 0.9, cities: 10
+Optimized cost is 3119.8540188024836
+PSO with pop: 6000, pbest: 0.02, gbest: 0.9, cities: 20
+Optimized cost is 4245.604964518904
+PSO with pop: 6000, pbest: 0.02, gbest: 0.9, cities: 30
+Optimized cost is 5174.6542368280725
+PSO with pop: 6000, pbest: 0.02, gbest: 0.9, cities: 40
+Optimized cost is 5804.205666877595
+PSO with pop: 6000, pbest: 0.02, gbest: 0.9, cities: 50
+Optimized cost is 7051.522270365629
+PSO with pop: 6000, pbest: 0.02, gbest: 0.9, cities: 60
+Optimized cost is 7261.991452129818
+PSO with pop: 6000, pbest: 0.3, gbest: 0.02, cities: 5
+Optimized cost is 2627.871649701817
+PSO with pop: 6000, pbest: 0.3, gbest: 0.02, cities: 10
+Optimized cost is 3119.8540188024836
+PSO with pop: 6000, pbest: 0.3, gbest: 0.02, cities: 20
+Optimized cost is 4182.767640792655
+PSO with pop: 6000, pbest: 0.3, gbest: 0.02, cities: 30
+Optimized cost is 4391.079998159815
+PSO with pop: 6000, pbest: 0.3, gbest: 0.02, cities: 40
+Optimized cost is 5637.127394838059
+PSO with pop: 6000, pbest: 0.3, gbest: 0.02, cities: 50
+Optimized cost is 7192.682489338381
+PSO with pop: 6000, pbest: 0.3, gbest: 0.02, cities: 60
+Optimized cost is 7259.11247623913
+PSO with pop: 6000, pbest: 0.3, gbest: 0.3, cities: 5
+Optimized cost is 2627.871649701817
+PSO with pop: 6000, pbest: 0.3, gbest: 0.3, cities: 10
+Optimized cost is 3119.8540188024836
+PSO with pop: 6000, pbest: 0.3, gbest: 0.3, cities: 20
+Optimized cost is 4182.767640792655
+PSO with pop: 6000, pbest: 0.3, gbest: 0.3, cities: 30
+Optimized cost is 5109.191800518777
+PSO with pop: 6000, pbest: 0.3, gbest: 0.3, cities: 40
+Optimized cost is 5804.205666877595
+PSO with pop: 6000, pbest: 0.3, gbest: 0.3, cities: 50
+Optimized cost is 7323.998307841864
+PSO with pop: 6000, pbest: 0.3, gbest: 0.3, cities: 60
+Optimized cost is 7259.384813368892
+PSO with pop: 6000, pbest: 0.3, gbest: 0.5, cities: 5
+Optimized cost is 2627.871649701817
+PSO with pop: 6000, pbest: 0.3, gbest: 0.5, cities: 10
+Optimized cost is 3119.8540188024836
+PSO with pop: 6000, pbest: 0.3, gbest: 0.5, cities: 20
+Optimized cost is 4182.767640792655
+PSO with pop: 6000, pbest: 0.3, gbest: 0.5, cities: 30
+Optimized cost is 5028.142928807951
+PSO with pop: 6000, pbest: 0.3, gbest: 0.5, cities: 40
+Optimized cost is 5696.240773048813
+PSO with pop: 6000, pbest: 0.3, gbest: 0.5, cities: 50
+Optimized cost is 6996.734675991217
+PSO with pop: 6000, pbest: 0.3, gbest: 0.5, cities: 60
+Optimized cost is 7325.188932559169
+PSO with pop: 6000, pbest: 0.3, gbest: 0.9, cities: 5
+Optimized cost is 2627.871649701817
+PSO with pop: 6000, pbest: 0.3, gbest: 0.9, cities: 10
+Optimized cost is 3119.8540188024836
+PSO with pop: 6000, pbest: 0.3, gbest: 0.9, cities: 20
+Optimized cost is 4182.767640792655
+PSO with pop: 6000, pbest: 0.3, gbest: 0.9, cities: 30
+Optimized cost is 4856.747705769429
+PSO with pop: 6000, pbest: 0.3, gbest: 0.9, cities: 40
+Optimized cost is 5804.205666877595
+PSO with pop: 6000, pbest: 0.3, gbest: 0.9, cities: 50
+Optimized cost is 6514.753251670117
+PSO with pop: 6000, pbest: 0.3, gbest: 0.9, cities: 60
+Optimized cost is 7261.991452129818
+PSO with pop: 6000, pbest: 0.5, gbest: 0.02, cities: 5
+Optimized cost is 2627.871649701817
+PSO with pop: 6000, pbest: 0.5, gbest: 0.02, cities: 10
+Optimized cost is 3119.8540188024836
+PSO with pop: 6000, pbest: 0.5, gbest: 0.02, cities: 20
+Optimized cost is 4182.767640792655
+PSO with pop: 6000, pbest: 0.5, gbest: 0.02, cities: 30
+Optimized cost is 4411.091519655174
+PSO with pop: 6000, pbest: 0.5, gbest: 0.02, cities: 40
+Optimized cost is 5538.388665886331
+PSO with pop: 6000, pbest: 0.5, gbest: 0.02, cities: 50
+Optimized cost is 7119.838568135797
+PSO with pop: 6000, pbest: 0.5, gbest: 0.02, cities: 60
+Optimized cost is 7231.131554859216
+PSO with pop: 6000, pbest: 0.5, gbest: 0.3, cities: 5
+Optimized cost is 2627.871649701817
+PSO with pop: 6000, pbest: 0.5, gbest: 0.3, cities: 10
+Optimized cost is 3119.8540188024836
+PSO with pop: 6000, pbest: 0.5, gbest: 0.3, cities: 20
+Optimized cost is 4182.767640792655
+PSO with pop: 6000, pbest: 0.5, gbest: 0.3, cities: 30
+Optimized cost is 4856.747705769429
+PSO with pop: 6000, pbest: 0.5, gbest: 0.3, cities: 40
+Optimized cost is 5804.205666877595
+PSO with pop: 6000, pbest: 0.5, gbest: 0.3, cities: 50
+Optimized cost is 6902.168310644931
+PSO with pop: 6000, pbest: 0.5, gbest: 0.3, cities: 60
+Optimized cost is 7290.162365351667
+PSO with pop: 6000, pbest: 0.5, gbest: 0.5, cities: 5
+Optimized cost is 2627.871649701817
+PSO with pop: 6000, pbest: 0.5, gbest: 0.5, cities: 10
+Optimized cost is 3119.854018802484
+PSO with pop: 6000, pbest: 0.5, gbest: 0.5, cities: 20
+Optimized cost is 4245.604964518904
+PSO with pop: 6000, pbest: 0.5, gbest: 0.5, cities: 30
+Optimized cost is 5174.6542368280725
+PSO with pop: 6000, pbest: 0.5, gbest: 0.5, cities: 40
+Optimized cost is 5804.205666877595
+PSO with pop: 6000, pbest: 0.5, gbest: 0.5, cities: 50
+Optimized cost is 6803.818024473183
+PSO with pop: 6000, pbest: 0.5, gbest: 0.5, cities: 60
+Optimized cost is 7267.113616050949
+PSO with pop: 6000, pbest: 0.5, gbest: 0.9, cities: 5
+Optimized cost is 2627.871649701817
+PSO with pop: 6000, pbest: 0.5, gbest: 0.9, cities: 10
+Optimized cost is 3119.8540188024836
+PSO with pop: 6000, pbest: 0.5, gbest: 0.9, cities: 20
+Optimized cost is 4182.767640792655
+PSO with pop: 6000, pbest: 0.5, gbest: 0.9, cities: 30
+Optimized cost is 5095.388128503727
+PSO with pop: 6000, pbest: 0.5, gbest: 0.9, cities: 40
+Optimized cost is 5803.163638589507
+PSO with pop: 6000, pbest: 0.5, gbest: 0.9, cities: 50
+Optimized cost is 6936.948719621431
+PSO with pop: 6000, pbest: 0.5, gbest: 0.9, cities: 60
+Optimized cost is 7301.3680608954655
+PSO with pop: 6000, pbest: 0.9, gbest: 0.02, cities: 5
+Optimized cost is 2627.871649701817
+PSO with pop: 6000, pbest: 0.9, gbest: 0.02, cities: 10
+Optimized cost is 3119.8540188024836
+PSO with pop: 6000, pbest: 0.9, gbest: 0.02, cities: 20
+Optimized cost is 4182.767640792655
+PSO with pop: 6000, pbest: 0.9, gbest: 0.02, cities: 30
+Optimized cost is 4697.12842285198
+PSO with pop: 6000, pbest: 0.9, gbest: 0.02, cities: 40
+Optimized cost is 5538.388665886331
+PSO with pop: 6000, pbest: 0.9, gbest: 0.02, cities: 50
+Optimized cost is 7144.579584387306
+PSO with pop: 6000, pbest: 0.9, gbest: 0.02, cities: 60
+Optimized cost is 7231.131554859216
+PSO with pop: 6000, pbest: 0.9, gbest: 0.3, cities: 5
+Optimized cost is 2627.871649701817
+PSO with pop: 6000, pbest: 0.9, gbest: 0.3, cities: 10
+Optimized cost is 3119.8540188024836
+PSO with pop: 6000, pbest: 0.9, gbest: 0.3, cities: 20
+Optimized cost is 4182.767640792655
+PSO with pop: 6000, pbest: 0.9, gbest: 0.3, cities: 30
+Optimized cost is 4856.747705769429
+PSO with pop: 6000, pbest: 0.9, gbest: 0.3, cities: 40
+Optimized cost is 5804.205666877595
+PSO with pop: 6000, pbest: 0.9, gbest: 0.3, cities: 50
+Optimized cost is 7086.610936030804
+PSO with pop: 6000, pbest: 0.9, gbest: 0.3, cities: 60
+Optimized cost is 7323.041858168563
+PSO with pop: 6000, pbest: 0.9, gbest: 0.5, cities: 5
+Optimized cost is 2627.871649701817
+PSO with pop: 6000, pbest: 0.9, gbest: 0.5, cities: 10
+Optimized cost is 3119.8540188024836
+PSO with pop: 6000, pbest: 0.9, gbest: 0.5, cities: 20
+Optimized cost is 4182.767640792655
+PSO with pop: 6000, pbest: 0.9, gbest: 0.5, cities: 30
+Optimized cost is 5072.186723199483
+PSO with pop: 6000, pbest: 0.9, gbest: 0.5, cities: 40
+Optimized cost is 5804.205666877595
+PSO with pop: 6000, pbest: 0.9, gbest: 0.5, cities: 50
+Optimized cost is 6796.452415557677
+PSO with pop: 6000, pbest: 0.9, gbest: 0.5, cities: 60
+Optimized cost is 7328.512634650608
+PSO with pop: 6000, pbest: 0.9, gbest: 0.9, cities: 5
+Optimized cost is 2627.871649701817
+PSO with pop: 6000, pbest: 0.9, gbest: 0.9, cities: 10
+Optimized cost is 3119.8540188024836
+PSO with pop: 6000, pbest: 0.9, gbest: 0.9, cities: 20
+Optimized cost is 4421.223390829812
+PSO with pop: 6000, pbest: 0.9, gbest: 0.9, cities: 30
+Optimized cost is 5174.6542368280725
+PSO with pop: 6000, pbest: 0.9, gbest: 0.9, cities: 40
+Optimized cost is 5637.127394838059
+PSO with pop: 6000, pbest: 0.9, gbest: 0.9, cities: 50
+Optimized cost is 6407.51124676033
+PSO with pop: 6000, pbest: 0.9, gbest: 0.9, cities: 60
+Optimized cost is 7172.366014194411
